@@ -9,4 +9,5 @@ Calculates and prints speed values for different bike transmissions based on use
 * Shimano 2x11
 * Shimano 1x11
 * Shimano 1x12
+  
 Note ⚠️ All specifications derived from official manufacturer specifications.
